@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/qreenify/.nuget/packages/": {}
+    "C:\\Users\\qreenify\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/qreenify/local/gp20-2021-0426-rest-gameserver-qreenify/TinyBrowser/TinyBrowser.csproj",
+      "projectUniqueName": "D:\\Forsbergs\\unity\\gp20-2021-0426-rest-gameserver-qreenify\\TinyBrowser\\TinyBrowser.csproj",
       "projectName": "TinyBrowser",
-      "projectPath": "/Users/qreenify/local/gp20-2021-0426-rest-gameserver-qreenify/TinyBrowser/TinyBrowser.csproj",
-      "packagesPath": "/Users/qreenify/.nuget/packages/",
-      "outputPath": "/Users/qreenify/local/gp20-2021-0426-rest-gameserver-qreenify/TinyBrowser/obj/",
+      "projectPath": "D:\\Forsbergs\\unity\\gp20-2021-0426-rest-gameserver-qreenify\\TinyBrowser\\TinyBrowser.csproj",
+      "packagesPath": "C:\\Users\\qreenify\\.nuget\\packages\\",
+      "outputPath": "D:\\Forsbergs\\unity\\gp20-2021-0426-rest-gameserver-qreenify\\TinyBrowser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/qreenify/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\qreenify\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

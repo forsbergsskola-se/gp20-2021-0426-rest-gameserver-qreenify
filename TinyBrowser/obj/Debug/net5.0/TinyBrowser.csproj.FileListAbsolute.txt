@@ -1,0 +1,16 @@
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.exe
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.deps.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.runtimeconfig.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.runtimeconfig.dev.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\ref\TinyBrowser.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\bin\Debug\net5.0\TinyBrowser.pdb
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.csprojAssemblyReference.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.AssemblyInfoInputs.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.AssemblyInfo.cs
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.csproj.CoreCompileInputs.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\ref\TinyBrowser.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.pdb
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser\obj\Debug\net5.0\TinyBrowser.genruntimeconfig.cache

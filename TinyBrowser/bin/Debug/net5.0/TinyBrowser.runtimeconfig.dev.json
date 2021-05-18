@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\qreenify\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\qreenify\\.nuget\\packages"
+    ]
+  }
+}
