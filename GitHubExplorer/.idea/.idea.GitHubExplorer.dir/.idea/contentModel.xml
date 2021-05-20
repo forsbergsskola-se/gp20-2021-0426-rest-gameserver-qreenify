@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\qreenify\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\qreenify\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.01" t="ExcludeRecursive" />
+    <e p="C:\Users\qreenify\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
     <e p="C:\Users\qreenify\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
-    <e p="D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\TinyBrowser" t="IncludeRecursive">
+    <e p="D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
+      <e p="desktop.ini" t="Include" />
+      <e p="GitHubExplorer.csproj" t="IncludeRecursive" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="net5.0" t="Include">
-            <e p="TinyBrowser.AssemblyInfo.cs" t="Include" />
+            <e p="GitHubExplorer.AssemblyInfo.cs" t="Include" />
           </e>
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
-      <e p="TinyBrowser.csproj" t="IncludeRecursive" />
     </e>
   </component>
 </project>
