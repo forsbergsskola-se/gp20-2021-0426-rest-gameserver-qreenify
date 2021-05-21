@@ -19,7 +19,14 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="828f6c0d-95a0-474f-aaa9-1b7d523c4de7" name="Default Changelist" comment="" />
@@ -30,6 +37,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../TinyBrowser/Program - Copy.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ProgramCopy.cs" />
+        <option value="$PROJECT_DIR$/../TinyBrowser/Program - Copy.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1siAkf2XV2hNe9Du10AQkttuflJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621345180658</updated>
-      <workItem from="1621345188560" duration="1202000" />
+      <workItem from="1621345188560" duration="8390000" />
     </task>
     <servers />
   </component>
@@ -88,7 +107,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -96,5 +127,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1621602961938">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1621602961938" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1621602961938">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1621602961938" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1621602961938">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1621602961938" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1621602961938">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1621602961938" />
   </component>
 </project>

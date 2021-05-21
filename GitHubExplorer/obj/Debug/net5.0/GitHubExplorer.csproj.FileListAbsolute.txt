@@ -1,0 +1,16 @@
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.exe
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.deps.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.runtimeconfig.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.runtimeconfig.dev.json
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\ref\GitHubExplorer.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\bin\Debug\net5.0\GitHubExplorer.pdb
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.csprojAssemblyReference.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.AssemblyInfoInputs.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.AssemblyInfo.cs
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.csproj.CoreCompileInputs.cache
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\ref\GitHubExplorer.dll
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.pdb
+D:\Forsbergs\unity\gp20-2021-0426-rest-gameserver-qreenify\GitHubExplorer\obj\Debug\net5.0\GitHubExplorer.genruntimeconfig.cache
